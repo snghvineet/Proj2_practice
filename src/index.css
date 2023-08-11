@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	background-color: black;
+}
+
+.no-users-placeholder {
+	text-align: center;
+}
+
+.fill-row {
+	flex-grow: 2;
+}
